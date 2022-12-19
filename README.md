@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miguel Vega
+- 👋 Hi, I’m Miguel.
 - 👀 I’m interested in SLAM, localization and Mapping with 3D Models, LiDAR and Visual-inertial Odometry.
 - 🌱 I’m currently learning about sensor fusion and accurate pose estimation.
 - 💞️ I’m looking to collaborate on accurate long-term mobile robot localization and mapping.
