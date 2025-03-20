@@ -2,6 +2,7 @@
 - 👀 I’m interested in SLAM, Localization and Mapping with or without reference maps (such as 3D BIM Models, point clouds or floor plans), LiDAR and Visual-inertial Odometry.
 - 🌱 I’m currently learning about sensor fusion and pose estimation.
 - 💞️ I want to collaborate on accurate long-term localization and mapping.
+- Check out my final dissertation (Code and Data links) here: https://mediatum.ub.tum.de/?id=1751635
 
 
 <!---
